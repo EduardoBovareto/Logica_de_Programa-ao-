@@ -4,6 +4,8 @@
 Os algorítimos em questão sao sobre o desenvolvimento em lógicas de programação, antecedentes a uma linguagem proprimamente dita.
 
 Ainda penso em ultilizar o Javascript para iniciar nessa area da tecnologia.🖥💻
+      
+      
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 </p>
 
